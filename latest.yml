@@ -1,0 +1,8 @@
+version: 5.0.0
+files:
+  - url: abatechapp-Setup-5.0.0.exe
+    sha512: c48LmFUHR1SA3rZn7NfZ65Q3liWaxGSwQQBRUE/83WxEAC+J7VfGB3hw3Cc6n5Nzy1jncZ/O/6mKXgaTFbeC2g==
+    size: 86046493
+path: abatechapp-Setup-5.0.0.exe
+sha512: c48LmFUHR1SA3rZn7NfZ65Q3liWaxGSwQQBRUE/83WxEAC+J7VfGB3hw3Cc6n5Nzy1jncZ/O/6mKXgaTFbeC2g==
+releaseDate: '2025-01-03T06:27:48.207Z'
