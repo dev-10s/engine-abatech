@@ -1,8 +1,8 @@
-version: 5.0.6
+version: 6.1.2
 files:
-  - url: abatechapp-Setup-5.0.6.exe
-    sha512: a7hnH/QL7NOqvJ3dIXm8wZJ1TW22jQWh9/lXYvdgnqhqS6LefK2yegEU79mPZKT5sstPn9VMEIO30CH2Zmp/XA==
-    size: 86047014
-path: abatechapp-Setup-5.0.6.exe
-sha512: a7hnH/QL7NOqvJ3dIXm8wZJ1TW22jQWh9/lXYvdgnqhqS6LefK2yegEU79mPZKT5sstPn9VMEIO30CH2Zmp/XA==
-releaseDate: '2025-01-06T09:10:29.276Z'
+  - url: abatechapp-Setup-6.1.2.exe
+    sha512: 3smDuPDUEEwMMzUgpROaRp5JQVckDKa9KqD+cwwh/hgCECfsySJMzjIr7aeVNyfrl/k+Zb8QX7gs+klXqS4FWw==
+    size: 101100453
+path: abatechapp-Setup-6.1.2.exe
+sha512: 3smDuPDUEEwMMzUgpROaRp5JQVckDKa9KqD+cwwh/hgCECfsySJMzjIr7aeVNyfrl/k+Zb8QX7gs+klXqS4FWw==
+releaseDate: '2025-03-05T08:57:30.921Z'
